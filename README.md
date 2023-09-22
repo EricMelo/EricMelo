@@ -4,8 +4,8 @@ Bem-vindo ao meu perfil do GitHub! 😊
 
 ## Sobre Mim
 
-- 🔭 Atualmente estou estudando [GestãoEmpresarial-FatecZL]
-- 📫 Como me alcançar: [t.me/ericgnd12]
+- 🔭 Atualmente estou estudando na Fatec ZL
+- 📫 Como me alcançar: https://t.me/ericgnd12
 
 ## Linguagens e Ferramentas
 
