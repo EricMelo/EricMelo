@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @EricMelo
-- 👀 I’m interested in ... Learn and make things happen.
-- 🌱 I’m currently learning ... Programming.
+# ERIC MELO
 
-<!---
-EricMelo/EricMelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bem-vindo ao meu perfil do GitHub! 😊
+
+## Sobre Mim
+
+- 🔭 Atualmente estou estudando [GestãoEmpresarial-FatecZL]
+- 📫 Como me alcançar: [t.me/ericgnd12]
+
+## Linguagens e Ferramentas
+
+Aqui estão algumas das tecnologias com as quais trabalho:
+
+- [PHP](https://www.php.net/)
+- [Java](https://dev.java/)
+- [Python](https://www.python.org/)
+
+## Entre em Contato
+
+- LinkedIn: [Eric Melo](https://www.linkedin.com/in/eric-oliveira-mello/)
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato! 😄
